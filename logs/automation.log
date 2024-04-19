@@ -1,0 +1,206 @@
+04142024 02:50:45 PM: INFO: *****Test_01_login*****
+04142024 02:50:45 PM: INFO: *****Veriying logging test cases
+04 14 2024 02:53:03 PM: INFO: *****Test_01_login*****
+04 14 2024 02:53:03 PM: INFO: *****Veriying logging test cases
+04 16 2024 12:03:43 PM: INFO: *****Test_01_add_customer*****
+04 16 2024 12:03:43 PM: INFO: *****Veriying Add Customer test cases*****
+04 16 2024 12:03:45 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:03:50 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:03:51 PM: INFO: *****Starting add customer test case*****
+04 16 2024 12:04:13 PM: INFO: *****Logout test case successful*****
+04 16 2024 12:04:13 PM: INFO: *****Driver closed test case*****
+04 16 2024 12:04:15 PM: INFO: *****Test_01_login*****
+04 16 2024 12:04:15 PM: INFO: *****Veriying logging test case*****
+04 16 2024 12:04:17 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:04:20 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:04:23 PM: INFO: *****Logout logging test case successful*****
+04 16 2024 12:04:23 PM: INFO: *****Driver closed successful*****
+04 16 2024 12:04:24 PM: INFO: *****Test_01_search_customer_email*****
+04 16 2024 12:04:24 PM: INFO: *****Veriying Search Customer by email test cases*****
+04 16 2024 12:04:26 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:04:30 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:04:31 PM: INFO: *****Starting add customer test case*****
+04 16 2024 12:04:34 PM: INFO: *****add customer test case successful*****
+04 16 2024 12:04:35 PM: INFO: *****Starting search customer test case*****
+04 16 2024 12:04:39 PM: INFO: *****Search customer test case successful*****
+04 16 2024 12:04:40 PM: INFO: *****loggout test case*****
+04 16 2024 12:04:40 PM: INFO: *****Driver closed test case*****
+04 16 2024 12:04:42 PM: INFO: *****Test_01_search_customer_by_name*****
+04 16 2024 12:04:42 PM: INFO: *****Veriying Search Customer by name test cases*****
+04 16 2024 12:04:44 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:05:00 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:05:01 PM: INFO: *****Starting add customer test case*****
+04 16 2024 12:05:03 PM: INFO: *****add customer test case successful*****
+04 16 2024 12:05:04 PM: INFO: *****Starting search customer test case*****
+04 16 2024 12:05:08 PM: INFO: *****Search customer test case successful*****
+04 16 2024 12:05:10 PM: INFO: *****loggout test case*****
+04 16 2024 12:05:10 PM: INFO: *****Driver closed test case*****
+04 16 2024 12:05:11 PM: INFO: *****Test_01_search_customer_by_email_name*****
+04 16 2024 12:05:11 PM: INFO: *****Veriying Search Customer by name test cases*****
+04 16 2024 12:05:13 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:05:17 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:05:18 PM: INFO: *****Starting add customer test case*****
+04 16 2024 12:05:21 PM: INFO: *****add customer test case successful*****
+04 16 2024 12:05:22 PM: INFO: *****Starting search customer test case*****
+04 16 2024 12:05:25 PM: INFO: *****Search customer test case successful*****
+04 16 2024 12:05:27 PM: INFO: *****loggout test case*****
+04 16 2024 12:05:27 PM: INFO: *****Driver closed test case*****
+04 16 2024 12:05:29 PM: INFO: *****Test_01_search_customer_by_email_name*****
+04 16 2024 12:05:29 PM: INFO: *****Veriying Search Customer by name test cases*****
+04 16 2024 12:05:30 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:05:34 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:05:35 PM: INFO: *****Starting add customer test case*****
+04 16 2024 12:05:37 PM: INFO: *****add customer test case successful*****
+04 16 2024 12:05:38 PM: INFO: *****Starting search customer test case*****
+04 16 2024 12:05:41 PM: INFO: *****Search customer test case successful*****
+04 16 2024 12:05:44 PM: INFO: *****loggout test case*****
+04 16 2024 12:05:44 PM: INFO: *****Driver closed test case*****
+04 16 2024 12:09:05 PM: INFO: *****Test_01_add_customer*****
+04 16 2024 12:09:05 PM: INFO: *****Veriying Add Customer test cases*****
+04 16 2024 12:09:18 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:09:23 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:09:24 PM: INFO: *****Starting add customer test case*****
+04 16 2024 12:09:46 PM: INFO: *****Logout test case successful*****
+04 16 2024 12:09:47 PM: INFO: *****Driver closed test case*****
+04 16 2024 12:09:48 PM: INFO: *****Test_01_login*****
+04 16 2024 12:09:48 PM: INFO: *****Veriying logging test case*****
+04 16 2024 12:09:50 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:09:54 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:09:57 PM: INFO: *****Logout logging test case successful*****
+04 16 2024 12:09:57 PM: INFO: *****Driver closed successful*****
+04 16 2024 12:09:59 PM: INFO: *****Test_01_search_customer_email*****
+04 16 2024 12:09:59 PM: INFO: *****Veriying Search Customer by email test cases*****
+04 16 2024 12:10:01 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:10:05 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:10:06 PM: INFO: *****Starting add customer test case*****
+04 16 2024 12:10:08 PM: INFO: *****add customer test case successful*****
+04 16 2024 12:10:09 PM: INFO: *****Starting search customer test case*****
+04 16 2024 12:10:13 PM: INFO: *****Search customer test case successful*****
+04 16 2024 12:10:15 PM: INFO: *****loggout test case*****
+04 16 2024 12:10:15 PM: INFO: *****Driver closed test case*****
+04 16 2024 12:10:17 PM: INFO: *****Test_01_search_customer_by_name*****
+04 16 2024 12:10:17 PM: INFO: *****Veriying Search Customer by name test cases*****
+04 16 2024 12:10:18 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:10:25 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:10:26 PM: INFO: *****Starting add customer test case*****
+04 16 2024 12:10:29 PM: INFO: *****add customer test case successful*****
+04 16 2024 12:10:30 PM: INFO: *****Starting search customer test case*****
+04 16 2024 12:10:34 PM: INFO: *****Search customer test case successful*****
+04 16 2024 12:10:37 PM: INFO: *****loggout test case*****
+04 16 2024 12:10:37 PM: INFO: *****Driver closed test case*****
+04 16 2024 12:10:38 PM: INFO: *****Test_01_search_customer_by_email_name*****
+04 16 2024 12:10:38 PM: INFO: *****Veriying Search Customer by name test cases*****
+04 16 2024 12:10:40 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:10:45 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:10:46 PM: INFO: *****Starting add customer test case*****
+04 16 2024 12:10:48 PM: INFO: *****add customer test case successful*****
+04 16 2024 12:10:49 PM: INFO: *****Starting search customer test case*****
+04 16 2024 12:10:52 PM: INFO: *****Search customer test case successful*****
+04 16 2024 12:10:55 PM: INFO: *****loggout test case*****
+04 16 2024 12:10:55 PM: INFO: *****Driver closed test case*****
+04 16 2024 12:10:56 PM: INFO: *****Test_01_search_customer_by_email_name*****
+04 16 2024 12:10:56 PM: INFO: *****Veriying Search Customer by name test cases*****
+04 16 2024 12:10:59 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:11:03 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:11:04 PM: INFO: *****Starting add customer test case*****
+04 16 2024 12:11:07 PM: INFO: *****add customer test case successful*****
+04 16 2024 12:11:08 PM: INFO: *****Starting search customer test case*****
+04 16 2024 12:11:11 PM: INFO: *****Search customer test case successful*****
+04 16 2024 12:11:13 PM: INFO: *****loggout test case*****
+04 16 2024 12:11:13 PM: INFO: *****Driver closed test case*****
+04 16 2024 12:21:19 PM: INFO: *****Test_01_login*****
+04 16 2024 12:21:19 PM: INFO: *****Veriying logging test case*****
+04 16 2024 12:21:22 PM: INFO: *****Starting logging test case*****
+04 16 2024 12:21:27 PM: INFO: *****Logging test case successful*****
+04 16 2024 12:21:30 PM: INFO: *****Logout logging test case successful*****
+04 16 2024 12:21:30 PM: INFO: *****Driver closed successful*****
+04 16 2024 01:25:33 PM: INFO: *****Test_01_login*****
+04 16 2024 01:25:33 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:25:35 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:25:37 PM: INFO: *****Positive Logging test case successful*****
+04 16 2024 01:37:21 PM: INFO: *****Test_01_login*****
+04 16 2024 01:37:21 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:37:24 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:37:27 PM: INFO: *****Positive Logging test case successful*****
+04 16 2024 01:37:30 PM: INFO: *****Logout logging test case successful*****
+04 16 2024 01:37:30 PM: INFO: *****Driver closed successful*****
+04 16 2024 01:37:31 PM: INFO: *****Test_02_login*****
+04 16 2024 01:37:31 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:37:34 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:37:35 PM: INFO: *****Negative1 Logging test case successful*****
+04 16 2024 01:37:47 PM: INFO: *****Test_02_login*****
+04 16 2024 01:37:47 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:37:50 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:37:50 PM: INFO: *****Negative2 Logging test case successful*****
+04 16 2024 01:38:02 PM: INFO: *****Test_03_login*****
+04 16 2024 01:38:02 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:38:04 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:46:03 PM: INFO: *****Test_01_login*****
+04 16 2024 01:46:03 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:46:06 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:46:09 PM: INFO: *****Positive Logging test case successful*****
+04 16 2024 01:46:12 PM: INFO: *****Logout logging test case successful*****
+04 16 2024 01:46:13 PM: INFO: *****Driver closed successful*****
+04 16 2024 01:46:14 PM: INFO: *****Test_02_login*****
+04 16 2024 01:46:14 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:46:16 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:46:17 PM: INFO: *****Negative1 Logging test case successful*****
+04 16 2024 01:46:17 PM: INFO: *****Test_02_login*****
+04 16 2024 01:46:17 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:46:17 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:46:18 PM: INFO: *****Negative2 Logging test case successful*****
+04 16 2024 01:46:18 PM: INFO: *****Test_03_login*****
+04 16 2024 01:46:18 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:46:18 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:46:19 PM: INFO: *****Negative3 Logging test case successful*****
+04 16 2024 01:48:01 PM: INFO: *****Test_01_login*****
+04 16 2024 01:48:01 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:48:04 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:48:07 PM: INFO: *****Positive Logging test case successful*****
+04 16 2024 01:48:10 PM: INFO: *****Logout logging test case successful*****
+04 16 2024 01:48:10 PM: INFO: *****Driver closed successful*****
+04 16 2024 01:48:11 PM: INFO: *****Test_02_login*****
+04 16 2024 01:48:11 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:48:14 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:48:15 PM: INFO: *****Negative1 Logging test case successful*****
+04 16 2024 01:48:15 PM: INFO: *****Test_02_login*****
+04 16 2024 01:48:15 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:48:15 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:48:15 PM: INFO: *****Negative2 Logging test case successful*****
+04 16 2024 01:48:15 PM: INFO: *****Test_03_login*****
+04 16 2024 01:48:15 PM: INFO: *****Veriying logging test case*****
+04 16 2024 01:48:15 PM: INFO: *****Starting logging test case*****
+04 16 2024 01:48:16 PM: INFO: *****Negative3 Logging test case successful*****
+04 16 2024 01:48:16 PM: INFO: *****Driver closed successful*****
+04 17 2024 12:59:38 PM: INFO: *****Test_01_login*****
+04 17 2024 12:59:38 PM: INFO: *****Veriying logging test case*****
+04 17 2024 12:59:41 PM: INFO: *****Starting logging test case*****
+04 17 2024 12:59:43 PM: INFO: *****Positive Logging test case successful*****
+04 17 2024 12:59:45 PM: INFO: *****Logout logging test case successful*****
+04 17 2024 12:59:45 PM: INFO: *****Driver closed successful*****
+04 17 2024 12:59:46 PM: INFO: *****Test_02_login*****
+04 17 2024 12:59:46 PM: INFO: *****Veriying logging test case*****
+04 17 2024 12:59:48 PM: INFO: *****Starting logging test case*****
+04 17 2024 12:59:48 PM: INFO: *****Negative1 Logging test case successful*****
+04 17 2024 12:59:48 PM: INFO: *****Test_02_login*****
+04 17 2024 12:59:48 PM: INFO: *****Veriying logging test case*****
+04 17 2024 12:59:48 PM: INFO: *****Starting logging test case*****
+04 17 2024 12:59:49 PM: INFO: *****Negative2 Logging test case successful*****
+04 17 2024 12:59:49 PM: INFO: *****Test_03_login*****
+04 17 2024 12:59:49 PM: INFO: *****Veriying logging test case*****
+04 17 2024 12:59:49 PM: INFO: *****Starting logging test case*****
+04 17 2024 12:59:50 PM: INFO: *****Negative3 Logging test case successful*****
+04 17 2024 12:59:50 PM: INFO: *****Driver closed successful*****
+04 17 2024 02:14:37 PM: INFO: *****Test_02_login*****
+04 17 2024 02:14:37 PM: INFO: *****Veriying logging test case*****
+04 17 2024 02:14:39 PM: INFO: *****Starting logging test case*****
+04 17 2024 02:14:40 PM: INFO: *****Negative1 Logging test case successful*****
+04 17 2024 02:14:40 PM: INFO: *****Test_02_login*****
+04 17 2024 02:14:40 PM: INFO: *****Veriying logging test case*****
+04 17 2024 02:14:40 PM: INFO: *****Starting logging test case*****
+04 17 2024 02:14:41 PM: INFO: *****Negative2 Logging test case successful*****
+04 17 2024 02:14:41 PM: INFO: *****Test_03_login*****
+04 17 2024 02:14:41 PM: INFO: *****Veriying logging test case*****
+04 17 2024 02:14:41 PM: INFO: *****Starting logging test case*****
+04 17 2024 02:14:42 PM: INFO: *****Negative3 Logging test case successful*****
+04 17 2024 02:14:42 PM: INFO: *****Driver closed successful*****
