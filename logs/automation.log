@@ -204,3 +204,47 @@
 04 17 2024 02:14:41 PM: INFO: *****Starting logging test case*****
 04 17 2024 02:14:42 PM: INFO: *****Negative3 Logging test case successful*****
 04 17 2024 02:14:42 PM: INFO: *****Driver closed successful*****
+04 20 2024 07:15:10 PM: INFO: *****Test_01_dash_nop_com*****
+04 20 2024 07:15:10 PM: INFO: *****Clicking_the_nop_commerce_link*****
+04 20 2024 07:15:13 PM: INFO: *****Test_01_Login*****
+04 20 2024 07:15:13 PM: INFO: *****Login_started*****
+04 20 2024 07:15:32 PM: INFO: *****Test_01_dash_nop_com_click*****
+04 20 2024 07:17:01 PM: INFO: *****Test_01_dash_nop_com*****
+04 20 2024 07:17:01 PM: INFO: *****Clicking_the_nop_commerce_link*****
+04 20 2024 07:17:03 PM: INFO: *****Test_01_Login*****
+04 20 2024 07:17:03 PM: INFO: *****Login_started*****
+04 20 2024 07:17:13 PM: INFO: *****Test_01_dash_nop_com_click*****
+04 20 2024 07:17:49 PM: INFO: *****Test_01_dash_nop_com*****
+04 20 2024 07:17:49 PM: INFO: *****Clicking_the_nop_commerce_link*****
+04 20 2024 07:17:52 PM: INFO: *****Test_01_Login*****
+04 20 2024 07:17:52 PM: INFO: *****Login_started*****
+04 20 2024 07:18:01 PM: INFO: *****Test_01_dash_nop_com_click*****
+04 20 2024 07:18:38 PM: INFO: *****Test_01_dash_nop_com*****
+04 20 2024 07:18:38 PM: INFO: *****Clicking_the_nop_commerce_link*****
+04 20 2024 07:18:40 PM: INFO: *****Test_01_Login*****
+04 20 2024 07:18:40 PM: INFO: *****Login_started*****
+04 20 2024 07:18:48 PM: INFO: *****Test_01_dash_nop_com_click*****
+04 20 2024 07:22:50 PM: INFO: *****Test_01_dash_nop_com*****
+04 20 2024 07:22:50 PM: INFO: *****Clicking_the_nop_commerce_link*****
+04 20 2024 07:22:52 PM: INFO: *****Test_01_Login*****
+04 20 2024 07:22:52 PM: INFO: *****Login_started*****
+04 20 2024 07:23:02 PM: INFO: *****Test_01_dash_nop_com_click*****
+04 20 2024 07:24:19 PM: INFO: *****Test_01_dash_nop_com*****
+04 20 2024 07:24:19 PM: INFO: *****Clicking_the_nop_commerce_link*****
+04 20 2024 07:24:21 PM: INFO: *****Test_01_Login*****
+04 20 2024 07:24:21 PM: INFO: *****Login_started*****
+04 20 2024 07:24:29 PM: INFO: *****Test_01_dash_nop_com_click*****
+04 22 2024 09:54:02 AM: INFO: *****Test_01_dash_nop_com*****
+04 22 2024 09:54:02 AM: INFO: *****Clicking_the_nop_commerce_link*****
+04 22 2024 09:54:05 AM: INFO: *****Test_01_Login*****
+04 22 2024 09:54:05 AM: INFO: *****Login_started*****
+04 22 2024 09:54:14 AM: INFO: *****Test_01_dash_nop_com_click*****
+04 22 2024 09:54:31 AM: INFO: *****Logout_application*****
+04 22 2024 09:54:32 AM: INFO: *****Driver_close*****
+04 22 2024 09:59:47 AM: INFO: *****Test_01_dash_nop_com*****
+04 22 2024 09:59:47 AM: INFO: *****Clicking_the_nop_commerce_link*****
+04 22 2024 09:59:50 AM: INFO: *****Test_01_Login*****
+04 22 2024 09:59:50 AM: INFO: *****Login_started*****
+04 22 2024 10:00:01 AM: INFO: *****Test_01_dash_nop_com_click*****
+04 22 2024 10:00:18 AM: INFO: *****Logout_application*****
+04 22 2024 10:00:19 AM: INFO: *****Driver_close*****

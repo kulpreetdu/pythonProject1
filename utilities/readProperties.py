@@ -12,6 +12,11 @@ class ReadConfig:
         return url
 
     @staticmethod
+    def get_page2_url():
+        page_url = config.get('common info', 'page2_url')
+        return page_url
+
+    @staticmethod
     def get_username1():
         username1 = config.get('common info', 'username1')
         return username1
