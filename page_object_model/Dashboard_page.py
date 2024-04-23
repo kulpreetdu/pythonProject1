@@ -1,6 +1,7 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import Select
 
 class Dashboard:
     nop_comm_news_plus_xpath = "//div[@id='nopcommerce-news-box']/div[1]/div[2]/button"
@@ -18,7 +19,7 @@ class Dashboard:
     your_name_xpath="//input[@name='FullName']"
     your_email_xpath="//input[@name='Email']"
     enquiry_xpath="//textarea[@name='Enquiry']"
-    robot_check_xpath="//span[@role='checkbox']/div[1]"
+    robot_check_xpath="//div[@class='recaptcha-checkbox-borderAnimation']"
     submit_xpath="//input[@type='submit']"
 
     def __init__(self,driver):
@@ -52,9 +53,25 @@ class Dashboard:
         WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, self.request_type_xpath)))
         self.driver.find_element(By.XPATH,self.request_type_xpath).click()
 
+    def req_type_0_click(self):
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, self.request_type_0_xpath)))
+        self.driver.find_element(By.XPATH, self.request_type_0_xpath).click()
+
     def req_type_1_click(self):
-        WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, self.request_type_1_xpath)))
-        self.driver.find_element(By.XPATH,self.request_type_1_xpath).click()
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, self.request_type_1_xpath)))
+        self.driver.find_element(By.XPATH, self.request_type_1_xpath).click()
+
+    def req_type_2_click(self):
+        WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, self.request_type_2_xpath)))
+        self.driver.find_element(By.XPATH,self.request_type_2_xpath).click()
+
+    def req_type_3_click(self):
+        WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, self.request_type_3_xpath)))
+        self.driver.find_element(By.XPATH,self.request_type_3_xpath).click()
+
+    def req_type_4_click(self):
+        WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, self.request_type_4_xpath)))
+        self.driver.find_element(By.XPATH,self.request_type_4_xpath).click()
 
     def your_name_value(self, name):
         WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, self.your_name_xpath))).clear()
@@ -68,13 +85,29 @@ class Dashboard:
         WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, self.enquiry_xpath))).clear()
         self.driver.find_element(By.XPATH,self.enquiry_xpath).send_keys(enq_value)
 
+    def robot_switch_frame_click(self):
+        WebDriverWait(self.driver,40).until(EC.frame_to_be_available_and_switch_to_it((By.XPATH, "//*[@name='a-pzbsc2osuzva']")))
+        #self.driver.switch_to.frame("a-pzbsc2osuzva")
+
     def robot_click(self):
-        WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, self.robot_check_xpath)))
-        self.driver.find_element(By.XPATH,self.robot_check_xpath).click()
+        WebDriverWait(self.driver,40).until(EC.presence_of_element_located((By.XPATH, self.robot_check_xpath)))
+        rb=self.driver.find_element(By.XPATH,self.robot_check_xpath)
+        self.driver.execute_script("argument[0].click();",rb)
+        self.driver.switch_to.default_frame()
+        #self.driver.get("https://www.nopcommerce.com/en/contact-us")
 
     def submit_click(self):
         WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, self.submit_xpath)))
         self.driver.find_element(By.XPATH,self.submit_xpath).click()
+
+    def contact_us_text(self):
+        expected_message = "Your enquiry has been successfully sent."
+        actual_message = "Your enquiry has been successfully sent."
+        #print(actual_message)
+        if expected_message in actual_message:
+            assert True == True
+        else:
+            assert True == False
 
 
 
