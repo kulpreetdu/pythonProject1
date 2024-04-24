@@ -320,3 +320,60 @@
 04 23 2024 12:31:24 PM: INFO: *****Login_started*****
 04 23 2024 12:31:30 PM: INFO: *****successfully_login*****
 04 23 2024 12:31:37 PM: INFO: *****Test_01_dash_nop_com_click*****
+04 24 2024 12:28:30 PM: INFO: *****Test_01_edit_customer_page*****
+04 24 2024 12:28:30 PM: INFO: *****Veriying_Edit_Customer_page_test_cases*****
+04 24 2024 12:28:33 PM: INFO: *****Login_test_started_successfully*****
+04 24 2024 12:28:34 PM: INFO: *****Login_successfully_performed*****
+04 24 2024 12:34:42 PM: INFO: *****Test_01_edit_customer_page*****
+04 24 2024 12:34:42 PM: INFO: *****Veriying_Edit_Customer_page_test_cases*****
+04 24 2024 12:34:44 PM: INFO: *****Login_test_started_successfully*****
+04 24 2024 12:34:44 PM: INFO: *****Login_successfully_performed*****
+04 24 2024 12:35:48 PM: INFO: *****Test_01_add_customer*****
+04 24 2024 12:35:48 PM: INFO: *****Veriying Add Customer test cases*****
+04 24 2024 12:35:51 PM: INFO: *****Starting logging test case*****
+04 24 2024 12:35:54 PM: INFO: *****Logging test case successful*****
+04 24 2024 12:35:55 PM: INFO: *****Starting add customer test case*****
+04 24 2024 12:36:17 PM: INFO: *****Logout test case successful*****
+04 24 2024 12:36:17 PM: INFO: *****Driver closed test case*****
+04 24 2024 12:37:39 PM: INFO: *****Test_01_edit_customer_page*****
+04 24 2024 12:37:39 PM: INFO: *****Veriying_Edit_Customer_page_test_cases*****
+04 24 2024 12:37:41 PM: INFO: *****Login_test_started_successfully*****
+04 24 2024 12:37:41 PM: INFO: *****Login_successfully_performed*****
+04 24 2024 12:39:17 PM: INFO: *****Test_01_edit_customer_page*****
+04 24 2024 12:39:17 PM: INFO: *****Veriying_Edit_Customer_page_test_cases*****
+04 24 2024 12:39:19 PM: INFO: *****Login_test_started_successfully*****
+04 24 2024 12:39:20 PM: INFO: *****Login_successfully_performed*****
+04 24 2024 12:39:46 PM: INFO: *****Test_01_edit_customer_page*****
+04 24 2024 12:39:46 PM: INFO: *****Veriying_Edit_Customer_page_test_cases*****
+04 24 2024 12:39:48 PM: INFO: *****Login_test_started_successfully*****
+04 24 2024 12:39:48 PM: INFO: *****Login_successfully_performed*****
+04 24 2024 12:41:35 PM: INFO: *****Test_01_edit_customer_page*****
+04 24 2024 12:41:35 PM: INFO: *****Veriying_Edit_Customer_page_test_cases*****
+04 24 2024 12:41:37 PM: INFO: *****Login_test_started_successfully*****
+04 24 2024 12:41:38 PM: INFO: *****Login_successfully_performed*****
+04 24 2024 12:44:26 PM: INFO: *****Test_01_edit_customer_page*****
+04 24 2024 12:44:26 PM: INFO: *****Veriying_Edit_Customer_page_test_cases*****
+04 24 2024 12:44:29 PM: INFO: *****Login_test_started_successfully*****
+04 24 2024 12:44:29 PM: INFO: *****Login_successfully_performed*****
+04 24 2024 01:04:02 PM: INFO: *****Test_01_edit_customer_page*****
+04 24 2024 01:04:02 PM: INFO: *****Veriying_Edit_Customer_page_test_cases*****
+04 24 2024 01:04:04 PM: INFO: *****Login_test_started_successfully*****
+04 24 2024 01:04:05 PM: INFO: *****Login_successfully_performed*****
+04 24 2024 01:04:06 PM: INFO: *****Creation_of_Edit_customer_page*****
+04 24 2024 01:04:36 PM: INFO: *****Successfully_edit_the_customer*****
+04 24 2024 01:05:59 PM: INFO: *****Test_01_edit_customer_page*****
+04 24 2024 01:05:59 PM: INFO: *****Veriying_Edit_Customer_page_test_cases*****
+04 24 2024 01:06:01 PM: INFO: *****Login_test_started_successfully*****
+04 24 2024 01:06:01 PM: INFO: *****Login_successfully_performed*****
+04 24 2024 01:06:03 PM: INFO: *****Creation_of_Edit_customer_page*****
+04 24 2024 01:06:32 PM: INFO: *****Successfully_edit_the_customer*****
+04 24 2024 01:06:44 PM: INFO: *****Successfully_logout*****
+04 24 2024 01:06:48 PM: INFO: *****driver_closed*****
+04 24 2024 01:11:28 PM: INFO: *****Test_01_edit_customer_page*****
+04 24 2024 01:11:28 PM: INFO: *****Veriying_Edit_Customer_page_test_cases*****
+04 24 2024 01:11:30 PM: INFO: *****Login_test_started_successfully*****
+04 24 2024 01:11:30 PM: INFO: *****Login_successfully_performed*****
+04 24 2024 01:11:33 PM: INFO: *****Creation_of_Edit_customer_page*****
+04 24 2024 01:12:03 PM: INFO: *****Successfully_edit_the_customer*****
+04 24 2024 01:12:15 PM: INFO: *****Successfully_logout*****
+04 24 2024 01:12:19 PM: INFO: *****driver_closed*****
