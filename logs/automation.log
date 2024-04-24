@@ -377,3 +377,103 @@
 04 24 2024 01:12:03 PM: INFO: *****Successfully_edit_the_customer*****
 04 24 2024 01:12:15 PM: INFO: *****Successfully_logout*****
 04 24 2024 01:12:19 PM: INFO: *****driver_closed*****
+04 24 2024 06:45:17 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 06:45:17 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 06:45:20 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 06:45:22 PM: INFO: *****Login_successful*****
+04 24 2024 06:45:22 PM: INFO: *****Creation_of_customer*****
+04 24 2024 06:45:54 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 06:46:06 PM: INFO: *****Successfully_updated_the_customer*****
+04 24 2024 07:12:33 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 07:12:33 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 07:12:36 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 07:12:38 PM: INFO: *****Login_successful*****
+04 24 2024 07:12:38 PM: INFO: *****Creation_of_customer*****
+04 24 2024 07:13:09 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 07:13:21 PM: INFO: *****Successfully_updated_the_customer*****
+04 24 2024 07:16:19 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 07:16:19 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 07:16:21 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 07:16:24 PM: INFO: *****Login_successful*****
+04 24 2024 07:16:24 PM: INFO: *****Creation_of_customer*****
+04 24 2024 07:16:56 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 07:17:53 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 07:17:53 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 07:17:56 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 07:17:57 PM: INFO: *****Login_successful*****
+04 24 2024 07:17:57 PM: INFO: *****Creation_of_customer*****
+04 24 2024 07:18:29 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 07:18:42 PM: INFO: *****Successfully_updated_the_customer*****
+04 24 2024 10:54:42 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 10:54:42 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 10:54:44 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 10:54:46 PM: INFO: *****Login_successful*****
+04 24 2024 10:54:46 PM: INFO: *****Creation_of_customer*****
+04 24 2024 10:55:18 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 10:55:31 PM: INFO: *****Successfully_updated_the_customer*****
+04 24 2024 10:57:50 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 10:57:50 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 10:57:53 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 10:57:55 PM: INFO: *****Login_successful*****
+04 24 2024 10:57:55 PM: INFO: *****Creation_of_customer*****
+04 24 2024 10:58:27 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 10:59:33 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 10:59:33 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 10:59:35 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 10:59:37 PM: INFO: *****Login_successful*****
+04 24 2024 10:59:37 PM: INFO: *****Creation_of_customer*****
+04 24 2024 11:00:08 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 11:00:20 PM: INFO: *****Successfully_updated_the_customer*****
+04 24 2024 11:01:44 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 11:01:44 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 11:01:47 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 11:01:49 PM: INFO: *****Login_successful*****
+04 24 2024 11:01:49 PM: INFO: *****Creation_of_customer*****
+04 24 2024 11:02:22 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 11:14:12 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 11:14:12 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 11:14:15 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 11:14:16 PM: INFO: *****Login_successful*****
+04 24 2024 11:14:16 PM: INFO: *****Creation_of_customer*****
+04 24 2024 11:14:49 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 11:15:03 PM: INFO: *****Successfully_updated_the_customer*****
+04 24 2024 11:23:19 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 11:23:19 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 11:23:22 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 11:23:23 PM: INFO: *****Login_successful*****
+04 24 2024 11:23:23 PM: INFO: *****Creation_of_customer*****
+04 24 2024 11:23:56 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 11:24:59 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 11:24:59 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 11:25:01 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 11:25:03 PM: INFO: *****Login_successful*****
+04 24 2024 11:25:03 PM: INFO: *****Creation_of_customer*****
+04 24 2024 11:25:34 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 11:25:46 PM: INFO: *****Successfully_updated_the_customer*****
+04 24 2024 11:26:59 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 11:26:59 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 11:27:01 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 11:27:03 PM: INFO: *****Login_successful*****
+04 24 2024 11:27:03 PM: INFO: *****Creation_of_customer*****
+04 24 2024 11:27:34 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 11:27:46 PM: INFO: *****Successfully_updated_the_customer*****
+04 24 2024 11:45:39 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 11:45:39 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 11:45:42 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 11:45:44 PM: INFO: *****Login_successful*****
+04 24 2024 11:45:44 PM: INFO: *****Creation_of_customer*****
+04 24 2024 11:46:16 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 11:47:31 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 11:47:31 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 11:47:33 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 11:47:34 PM: INFO: *****Login_successful*****
+04 24 2024 11:47:34 PM: INFO: *****Creation_of_customer*****
+04 24 2024 11:48:06 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 11:48:18 PM: INFO: *****Successfully_updated_the_customer*****
+04 24 2024 11:50:37 PM: INFO: *****Test_01_delete_cust*****
+04 24 2024 11:50:37 PM: INFO: *****Deleting_cust_page*****
+04 24 2024 11:50:40 PM: INFO: *****Test_01_delete_login_started*****
+04 24 2024 11:50:42 PM: INFO: *****Login_successful*****
+04 24 2024 11:50:42 PM: INFO: *****Creation_of_customer*****
+04 24 2024 11:51:14 PM: INFO: *****Successfully_edit_the customer*****
+04 24 2024 11:51:26 PM: INFO: *****Successfully_updated_the_customer*****
