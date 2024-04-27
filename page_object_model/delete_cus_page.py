@@ -35,7 +35,9 @@ class Delete_cust_page:
     save_and_edit_xpath = "//button[@name='save-continue']"
     change_password_xpath = "//button[@name='changepassword']"
     delete_xpath="//span[@id='customer-delete']"
-    close_xpath="//button[@fdprocessedid='pkx0x']/span"
+    close_xpath="//div[@id='customermodel-Delete-delete-confirmation']//button[@type='button']"
+    delete_conf_xpath="//div[@id='customermodel-Delete-delete-confirmation']//button[@type='submit']"
+    close_conf_xpath="//div[@id='customermodel-Delete-delete-confirmation']//span[@class='btn btn-default']"
 
     def __init__(self,driver):
         self.driver=driver
@@ -162,8 +164,17 @@ class Delete_cust_page:
 
     def close_click(self):
         WebDriverWait(self.driver,60).until(EC.presence_of_element_located((By.XPATH,self.close_xpath)))
-        self.driver.find_element_by_xpath(self.close_xpath).send_keys(keys.ENTER)
+        self.driver.find_element(By.XPATH, self.close_xpath).click()
         #self.driver.execute_script("arguments[0].click();", cl)
+
+    def delete_but_click(self):
+        WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH,self.delete_conf_xpath)))
+        self.driver.find_element(By.XPATH,self.delete_conf_xpath).click()
+
+    def cancel_but_click(self):
+        WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH,self.close_conf_xpath)))
+        self.driver.find_element(By.XPATH,self.close_conf_xpath).click()
+
 
     def accept_click(self):
         #Alert(self.driver).accept()
