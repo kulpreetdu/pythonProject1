@@ -1,6 +1,8 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
+
 class Login_Page:
     username1_xpath = "//*[contains(@id,'Email')]"
     password1_xpath = "//*[contains(@id,'Password')]"

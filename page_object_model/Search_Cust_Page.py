@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+
 class Search_Customer_Page:
     search_email_xpath="//input[@id='SearchEmail']"
     first_name_xpath="//input[@id='SearchFirstName']"

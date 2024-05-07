@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+
 class Add_Customer_Page:
     side_menu_xpath="//i[@class='fa fa-bars']"
     cust_icon_xpath="//nav[@class='mt-2']/ul/li[4]//i[@class='right fas fa-angle-left ']"

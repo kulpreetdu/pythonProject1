@@ -550,3 +550,30 @@
 04 27 2024 09:38:57 AM: INFO: *****Starting logging test case*****
 04 27 2024 09:39:04 AM: INFO: *****Negative3 Logging test case successful*****
 04 27 2024 09:39:16 AM: INFO: *****Driver closed successful*****
+05 07 2024 02:32:30 PM: INFO: *****Test_01_delete_cust*****
+05 07 2024 02:32:30 PM: INFO: *****Deleting_cust_page*****
+05 07 2024 02:32:32 PM: INFO: *****Test_01_delete_login_started*****
+05 07 2024 02:32:33 PM: INFO: *****Login_successful*****
+05 07 2024 02:32:33 PM: INFO: *****Test_01_add_customer_login_started*****
+05 07 2024 02:32:39 PM: INFO: *****Test_01_upload_file_started*****
+05 07 2024 02:33:09 PM: INFO: *****Test_01_upload_file_successful*****
+05 07 2024 02:33:09 PM: INFO: *****Test_01_logout*****
+05 07 2024 02:33:13 PM: INFO: *****Test_01_driver_closed*****
+05 07 2024 02:35:32 PM: INFO: *****Test_01_upload_file_cust*****
+05 07 2024 02:35:32 PM: INFO: *****upload_file_cust_page*****
+05 07 2024 02:35:34 PM: INFO: *****Test_01_upload_login_started*****
+05 07 2024 02:35:36 PM: INFO: *****Login_successful*****
+05 07 2024 02:35:36 PM: INFO: *****Test_01_add_customer_login_started*****
+05 07 2024 02:35:41 PM: INFO: *****Test_01_upload_file_started*****
+05 07 2024 02:36:13 PM: INFO: *****Test_01_upload_file_successful*****
+05 07 2024 02:36:13 PM: INFO: *****Test_01_logout*****
+05 07 2024 02:36:17 PM: INFO: *****Test_01_driver_closed*****
+05 07 2024 02:36:44 PM: INFO: *****Test_01_upload_file_cust*****
+05 07 2024 02:36:44 PM: INFO: *****upload_file_cust_page*****
+05 07 2024 02:36:46 PM: INFO: *****Test_01_upload_login_started*****
+05 07 2024 02:36:48 PM: INFO: *****Login_successful*****
+05 07 2024 02:36:48 PM: INFO: *****Test_01_add_customer_login_started*****
+05 07 2024 02:36:54 PM: INFO: *****Test_01_upload_file_started*****
+05 07 2024 02:37:24 PM: INFO: *****Test_01_upload_file_successful*****
+05 07 2024 02:37:24 PM: INFO: *****Test_01_logout*****
+05 07 2024 02:37:27 PM: INFO: *****Test_01_driver_closed*****
