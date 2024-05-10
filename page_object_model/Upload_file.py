@@ -14,7 +14,9 @@ class Upload_page:
     sub_email_xpath="//input[@id='SendEmail_Subject']"
     body_email_xpath="//textarea[@id='SendEmail_Body']"
     send_email_xpath="//form[@action='/Admin/Customer/SendEmail']//div[@class='modal-footer']/button"
-
+    import_file_xpath="//button[@name='importexcel']"
+    upload_file_xpath="//input[@name='importexcelfile']"
+    upload_button_xpath="//button[@class='btn btn-primary']"
     def __init__(self, driver):
         self.driver = driver
 
@@ -57,3 +59,15 @@ class Upload_page:
     def send_email_click(self):
         WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, self.send_email_xpath)))
         self.driver.find_element(By.XPATH, self.send_email_xpath).click()
+
+    def import_click(self):
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, self.import_file_xpath)))
+        self.driver.find_element(By.XPATH, self.import_file_xpath).click()
+
+    def file_upload_value(self):
+        WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, self.upload_file_xpath)))
+        self.driver.find_element(By.XPATH, self.upload_file_xpath).send_keys("C:\\Users\\singh\\Downloads\\customers.xlsx")
+
+    def upload_button_click(self):
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, self.upload_button_xpath)))
+        self.driver.find_element(By.XPATH, self.upload_button_xpath).click()

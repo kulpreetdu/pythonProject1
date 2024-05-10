@@ -577,3 +577,13 @@
 05 07 2024 02:37:24 PM: INFO: *****Test_01_upload_file_successful*****
 05 07 2024 02:37:24 PM: INFO: *****Test_01_logout*****
 05 07 2024 02:37:27 PM: INFO: *****Test_01_driver_closed*****
+05 09 2024 06:05:04 PM: INFO: *****Test_01_upload_file_cust*****
+05 09 2024 06:05:04 PM: INFO: *****upload_file_cust_page*****
+05 09 2024 06:05:07 PM: INFO: *****Test_01_upload_login_started*****
+05 09 2024 06:05:09 PM: INFO: *****Login_successful*****
+05 09 2024 06:05:09 PM: INFO: *****Test_01_add_customer_login_started*****
+05 09 2024 06:05:15 PM: INFO: *****Test_01_upload_file_started*****
+05 09 2024 06:05:44 PM: INFO: *****Test_01_upload_file_successful*****
+05 09 2024 06:05:44 PM: INFO: *****Test_01_file_import*****
+05 09 2024 06:05:54 PM: INFO: *****Test_01_logout*****
+05 09 2024 06:05:58 PM: INFO: *****Test_01_driver_closed*****

@@ -13,17 +13,8 @@ class Test_01_upload:
     base_url=ReadConfig.get_url()
     username1=ReadConfig.get_username1()
     password2=ReadConfig.get_password1()
-    e_val=random.randint(1,10)
-    p_val=random.randint(1,10)
-    email_val="email_val"+str(e_val)+"@gmail.com"
-    password_val="pass_val"+str(p_val)+"@gmail.com"
-    f_name="test_1_fir"
-    l_name="l_333_name"
-    date_of_birth_val="07/05/2024"
-    comp_value="cname"
-    acon_val="acon"
-    p_ch_val=random.randint(1,10)
-    pass_val="te_st"+str(p_ch_val)+"@gmail.com"
+    f_name="test_2_fir"
+    date_of_birth_val="09/05/2024"
     email_val = random.randint(1, 10)
     email_value = "email_test" + str(email_val)
     bod_email_val = random.randint(1, 10)
@@ -80,6 +71,15 @@ class Test_01_upload:
         self.up.send_email_click()
         time.sleep(2)
         self.logger.info("*****Test_01_upload_file_successful*****")
+        self.logger.info("*****Test_01_file_import*****")
+        self.up.back_to_cust_click()
+        time.sleep(2)
+        self.up.import_click()
+        time.sleep(2)
+        self.up.file_upload_value()
+        time.sleep(2)
+        self.up.upload_button_click()
+        time.sleep(2)
         self.logger.info("*****Test_01_logout*****")
         self.lp.logout_click()
         time.sleep(2)
